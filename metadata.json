@@ -1,0 +1,8 @@
+{
+  "name": "Black Matrix - Web3 Visual Command HUD",
+  "description": "Interactive Web3 Command HUD & Intelligence Center featuring live threat radar, Token_DNA genetic fingerprinting, multi-agent steganographic engine, smart escrow rescue hub, and classified intel vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
